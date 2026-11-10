@@ -88,7 +88,7 @@ Task-4-Logistic-Regression/
 │   ├── sigmoid_function.png
 │   └── tuned_confusion_matrix.png
 │
-├── logistic_regression.py
+├── Task4.ipynb
 └── README.md
 ```
 
